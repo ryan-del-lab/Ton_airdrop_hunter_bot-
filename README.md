@@ -45,4 +45,4 @@ The bot scans for new campaigns and notifies users about potential rewards so th
 
 ## 📦 Installation
 
-git clone https://github.com/ryan-del-lab/ton-airdrop-hunter-ai.gitcd ton-airdrop-hunter-ai
+git clone https://github.com/ryan-del-lab/ton-airdrop-hunter-ai.gitcdton-airdrop-hunter-ai
